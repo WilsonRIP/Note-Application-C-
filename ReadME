@@ -1,0 +1,5 @@
+“Act as an expert in C++ Windows programming. Please generate a simple Win32 application in C++ that:
+
+    1. Registers a window class using the Win32 API.
+    2. Creates a window of that class.
+    3. Implements a basic message loop that processes the WM_PAINT message to draw the text ‘Hello, World!’ in the window. Use modern C++ features (like auto and range-based loops) where appropriate, and include inline comments explaining each part of the code. I want the code to be as efficient and lightweight as Notepad++ is known to be.”
